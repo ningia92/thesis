@@ -1,6 +1,6 @@
 # Computer science thesis at University of Bari (2023)
 
-The work object of this thesis falls within the research area of ​​Machine Learning applied to cybersecurity. Specifically, neural models are adopted for the generation and classification of malware.
+The work object of my thesis falls within the research area of ​​Machine Learning applied to cybersecurity. Specifically, neural models are adopted for the generation and classification of malware.
 
 The thesis addresses the problem of the low accuracy of a classifier in distinguishing malware images that differ from those present in the training set. The causes of this problem are due to the low quantity or variety of examples used to train the classifier.
 
