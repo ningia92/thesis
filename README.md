@@ -1,5 +1,5 @@
-# Generative deep learning models for cybersecurity
-## Computer science thesis at University of Bari (2023)
+# Computer science thesis at University of Bari (2023)
+## Generative deep learning models for cybersecurity
 
 The work object of my thesis falls within the research area of ​​Machine Learning applied to cybersecurity. Specifically, neural models are adopted for the generation and classification of malware.
 
